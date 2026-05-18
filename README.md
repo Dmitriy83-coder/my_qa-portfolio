@@ -1,6 +1,7 @@
 Портфолио QA-инженера
 Голдин Дмитрий
 Инженер по тестированию (ручное + автоматизированное)
+
 📍 GitHub: https://github.com/Dmitriy83-coder
 📧 Email: godmitry2007@mail.ru
 📱 Telegram: @Goldin_Dm
